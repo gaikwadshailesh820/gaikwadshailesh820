@@ -115,7 +115,7 @@ HTML • CSS • JavaScript
 <td align="center">
 
 <a href="https://github.com/gaikwadshailesh820/UniGrade">
-<img src="assets/UnigGrade.png" alt="UniGrade Project" width="350"/>
+<img src="assets/UniGrade.png" alt="UniGrade Project" width="350"/>
 </a>
 
 </td>
