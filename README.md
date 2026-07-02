@@ -92,7 +92,7 @@ React • Node.js • PostgreSQL • Supabase
 
 <a href="https://github.com/gaikwadshailesh820/guestflow">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaikwadshailesh820&repo=guestflow&theme=tokyonight"/>
+<img src="GuestFlow.png"/>
 
 </a>
 
