@@ -91,7 +91,7 @@ React • Node.js • PostgreSQL • Supabase
 <td align="center">
 
 <a href="https://github.com/gaikwadshailesh820/guestflow">
-<img src="assets/guestflow.png" alt="GuestFlow Project" width="350"/>
+<img src="assets/GuestFlow.png" alt="GuestFlow Project" width="350"/>
 </a>
 
 </td>
@@ -115,7 +115,7 @@ HTML • CSS • JavaScript
 <td align="center">
 
 <a href="https://github.com/gaikwadshailesh820/UniGrade">
-<img src="assets/unigrade.png" alt="UniGrade Project" width="350"/>
+<img src="assets/UnigGrade.png" alt="UniGrade Project" width="350"/>
 </a>
 
 </td>
