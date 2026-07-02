@@ -92,7 +92,7 @@ React • Node.js • PostgreSQL • Supabase
 
 <a href="https://github.com/gaikwadshailesh820/guestflow">
 
-<img src="GuestFlow.png"/>
+<img src="assets/GuestFlow.png"/>
 
 </a>
 
